@@ -13,6 +13,7 @@
 		68BCD9EA2C612DFF000A63DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68BCD9E92C612DFF000A63DA /* Preview Assets.xcassets */; };
 		68BCD9F12C614897000A63DA /* ContentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCD9F02C614897000A63DA /* ContentModel.swift */; };
 		68BCD9F32C6148B9000A63DA /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCD9F22C6148B9000A63DA /* ContentViewModel.swift */; };
+		68BCD9F52C628403000A63DA /* ActivityIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68BCD9F42C628403000A63DA /* ActivityIndicatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		68BCD9E92C612DFF000A63DA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		68BCD9F02C614897000A63DA /* ContentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModel.swift; sourceTree = "<group>"; };
 		68BCD9F22C6148B9000A63DA /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		68BCD9F42C628403000A63DA /* ActivityIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityIndicatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				68BCD9E42C612DFE000A63DA /* ContentView.swift */,
 				68BCD9F02C614897000A63DA /* ContentModel.swift */,
 				68BCD9F22C6148B9000A63DA /* ContentViewModel.swift */,
+				68BCD9F42C628403000A63DA /* ActivityIndicatorView.swift */,
 				68BCD9E62C612DFF000A63DA /* Assets.xcassets */,
 				68BCD9E82C612DFF000A63DA /* Preview Content */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68BCD9F32C6148B9000A63DA /* ContentViewModel.swift in Sources */,
+				68BCD9F52C628403000A63DA /* ActivityIndicatorView.swift in Sources */,
 				68BCD9E52C612DFE000A63DA /* ContentView.swift in Sources */,
 				68BCD9E32C612DFE000A63DA /* newSwiftUIApp.swift in Sources */,
 				68BCD9F12C614897000A63DA /* ContentModel.swift in Sources */,
